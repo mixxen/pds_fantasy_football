@@ -7,4 +7,5 @@ seaborn
 matplotlib
 jupyter notebook
 pandas
+numpy
 ```
